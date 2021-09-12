@@ -1,34 +1,4 @@
 - layout: left
-  company: Oracle
-  link: https://www.oracle.com/index.html
-  jobs:
-    - title: Senior Software Engineer
-      dates: March 2020 - Present
-  description: | # this will include new lines to allow paragraphs
-    - Working on the Oracle Transporatation Management (OTM) Software. 
-    - Building Machine learning, and Operational Research Algorithms and designing Dashboard for the Product.
-- layout: left
-  company: Columbia University
-  link: https://www.columbia.edu/
-  jobs:
-    - title: Adjunct Associate Faculty
-      dates: May 2020 - Jan 2021
-  description: | # this will include new lines to allow paragraphs
-    - Hired for the Course "Data Science Consulting" for two semesters. 
-    - Directed and helped Students develop Data Science capstone Projects in a Consulting-based enviroment. 
-- layout: left
-  company: Edlab, Teachers College, Columbia University
-  link: https://edlab.tc.columbia.edu/
-  jobs:
-    - title: Data Science Researcher
-      dates: June 2019 - Dec 2019
-  description: | # this will include new lines to allow paragraphs
-    - Worked on a Multi-platform recommendation system for various Teacher’s college library resources for enhancing Self Directed Learning (SDL)
-    - Own entire data pipeline and perform end to end data engineering
-    - Involves Development and research on Search and Recommendation systems, Social network analysis and Topic modelling
-    - Also worked on auto-tagging of documents and designed a python package for research metadata retrieval
-    - Technologies: Apache PredictionIO, MongoDB, EZProxy, Docker, Python, SQL
-- layout: left
   company: Columbia University
   link: https://datascience.columbia.edu/students-recognized-excellence-during-reception-dsi-graduates
   jobs:
