@@ -1,0 +1,59 @@
+# Site
+repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
+# favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
+
+# Personal info
+name: Anant Mahale
+email: anmaha@outlook.com.au
+phone: +61 432908765
+website: http://anantkm.github.io/resume
+
+
+# Social links
+github_username:  anantkm
+linkedin_username: anantkmahale
+download_resume: columbia.jpg
+
+about_title: About Me
+about_profile_image: profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+  Hi, my name is Anant Mahale, and I am an aspiring PhD Student in Computer Vision. I graduated from the University of New South Wales (UNSW) with a Master's Degree in Information Technology with Excellence in 2021
+
+experience_title: Experience #(Use this to override about experience section title)
+education_title: Education #(Use this to override about education section title)
+projects_title: Projects
+
+
+# More Section
+# more_title: A Little More About Me #(Use this to override about more section title)
+# more_content: | # this will include new lines to allow paragraphs
+#  This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+
+#  Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+
+# Footer
+footer_show_references: true
+
+# Build settings
+# theme: modern-resume-theme (Use this is you are hosting your resume yourself)
+# remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
+
+exclude : [
+  "Gemfile",
+  "Gemfile.lock",
+  "node_modules",
+  "vendor/bundle/",
+  "vendor/cache/",
+  "vendor/gems/",
+  "vendor/ruby/",
+  "lib/",
+  "scripts/",
+  "docker-compose.yml",
+  ]
