@@ -57,7 +57,9 @@
   # quote: >
   #   Mini Data Science Projects in Public Policy Context
   description: |
-    - Implemented BWT backward search and a decoder that efficiently decodes BWT encoded DNA file back to their original DNA sequence. The challenge in this assignment was to implement it so efficiently that it beats the execution of binary provided by the professor. I did implement a solution that passed all the test cases and beat the professor code by a good margin.
+    - Implemented BWT backward search and a decoder that efficiently decodes BWT encoded DNA file back to their original DNA sequence. 
+    - The challenge in this assignment was to implement it so efficiently that it beats the execution of binary provided by the professor. 
+    - This implementation not only passed all the test cases but also, beat the professor's code performance by a good margin.
 
 - layout: top-middle
   name: Research Project in Educational Analytics
