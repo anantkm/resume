@@ -17,7 +17,12 @@ download_resume: columbia.jpg
 about_title: About Me
 about_profile_image: profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Anant Mahale, and I am an aspiring PhD Student in Computer Vision. I graduated from the University of New South Wales (UNSW) with a Master's Degree in Information Technology with Excellence in 2021
+  Hi, my name is Anant Mahale, and I am an aspiring PhD student in Computer Vision. I graduated from the University of New South Wales (UNSW) with a Masters Degree in Information Technology with Excellence in 2021
+  
+  A genuine interest in Computer Vision has compelled me to extend my horizons and supplement my Masters degree with further research and even higher education.
+  
+  My area of research primarily focuses on Computer Vision, Machine Learning and Software Engineering. A comprehensive list of projects related to these fields can be found at https://anantkm.github.io/masters/
+  After studying Deep Learning and Computer Vision subjects, I had developed a keen interest in object detection and tracking in computer vision. This led me to attempt research on the same during my Masters. I am eager to explore and pursue my PhD in Computer Vision and related fields.
 
 experience_title: Experience #(Use this to override about experience section title)
 education_title: Education #(Use this to override about education section title)
